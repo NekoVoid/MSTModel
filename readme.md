@@ -62,7 +62,7 @@ Escenario E1 - Ciclovías UNI (Perú)
   Se agrega arista 5-18 con peso 161
   Se agrega arista 6-19 con peso 135
   Se agrega arista 7-20 con peso 77
-  Se agrega arista 8-21 con peso 91
+  Se agrega arista 8-21 con peso 97
   Se agrega arista 13-22 con peso 88
   Se agrega arista 14-23 con peso 124
   Se agrega arista 16-24 con peso 226
@@ -93,7 +93,7 @@ Escenario E1 - Ciclovías UNI (Perú)
   5 - 18 : 161
   6 - 19 : 135
   7 - 20 : 77
-  8 - 21 : 91
+  8 - 21 : 97
   13 - 22 : 88
   14 - 23 : 124
   16 - 24 : 226
@@ -104,14 +104,14 @@ Escenario E1 - Ciclovías UNI (Perú)
   11 - 8 : 142
 
 Número de aristas seleccionadas: 25 (esperado N-1 = 25)
-Peso total del MST: 2958
-Peso total del grafo original: 4022
-Reducción: 26.45%
+Peso total del MST: 2964
+Peso total del grafo original: 4028
+Reducción: 26.42%
 ```
 
 ### resultados
 - vertices:  26
-- peso: 2958
+- peso: 2964
 - cantidad aristas: 25
   |u|v|peso (m)|
   |-|-|-|
@@ -131,7 +131,7 @@ Reducción: 26.45%
   |5|18|161|
   |6|19|135|
   |7|20|77|
-  |8|21|91|
+  |8|21|97|
   |13|22|88|
   |14|23|124|
   |16|24|226|
@@ -141,4 +141,4 @@ Reducción: 26.45%
   |15|16|61|
   |11|8|142|
 
-### reducción 26.45%
+### reducción 26.42%
